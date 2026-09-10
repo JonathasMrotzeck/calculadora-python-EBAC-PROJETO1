@@ -2,11 +2,11 @@
 
 # Sobre o projeto
 
-A Calculex 33.000 é uma calculadora de linha de comando (terminal) que executa as 7 operações matemáticas mais comuns: soma, subtração, multiplicação, divisão, módulo (resto da divisão), potenciação e raiz quadrada.
+A Calculex 33.000 (Bom nome eu sei) é uma calculadora de linha de comando (terminal) que executa as 7 operações matemáticas mais comuns: soma, subtração, multiplicação, divisão, módulo (resto da divisão), potenciação e raiz quadrada.
 
 É meu primeiro projeto e primeira vez utilizando tudo que necessita para chegar até essa etapa
 
-# Como funciona (lógica geral)
+# Como funciona
 
 Boas-vindas: o programa pede o nome do usuário e explica como usar a calculadora, incluindo um exemplo de cálculo.
 
